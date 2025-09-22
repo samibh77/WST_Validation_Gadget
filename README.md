@@ -21,8 +21,11 @@ The WST Gadget is a modular, IoT-based device developed by WaterSec to enhance t
 The WST Gadget's software is structured into the following main modules:
 
 • Sensor Calibration & Validation: Measures and adjusts flowmeter calibration.
+
 • LoRa Transmission Power Optimization: Tests and adjusts LoRa transmission power.
+
 • Noise Detection: Identifies and compensates for noise interference.
+
 • User Interface: Provides feedback and configuration options.
 
 ![0_tVTJf6EjMXP6eo_i](https://github.com/user-attachments/assets/bc3cc7d2-cce6-42ef-8ca0-a402bc7b2da4)
