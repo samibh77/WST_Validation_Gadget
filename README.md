@@ -28,4 +28,6 @@ The WST Gadget's software is structured into the following main modules:
 
 • User Interface: Provides feedback and configuration options.
 
-![0_tVTJf6EjMXP6eo_i](https://github.com/user-attachments/assets/bc3cc7d2-cce6-42ef-8ca0-a402bc7b2da4)
+<img width="962" height="890" alt="112" src="https://github.com/user-attachments/assets/0ed14280-f9e4-41a5-b35a-b534b13f2cb8" />
+
+
